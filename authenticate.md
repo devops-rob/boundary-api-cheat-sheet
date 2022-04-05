@@ -1,11 +1,4 @@
-# Boundary API Cheat Sheet
-
-This repository contains examples of interacting with the HashiCorp Boundary API using cURL.
-
-1. [Authentication](#authenticate-to-boundary)
-2. [Accounts](accounts.md)
-
-## Authenticate to Boundary
+# Authenticate to Boundary
 
 Sample cURL command
 
