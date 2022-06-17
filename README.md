@@ -6,3 +6,4 @@ This repository contains examples of interacting with the HashiCorp Boundary API
 2. [Accounts](accounts.md)
 3. [Auth Methods](auth-method.md)
 4. [Auth Tokens](auth-token.md)
+5. [Users](users.md)
